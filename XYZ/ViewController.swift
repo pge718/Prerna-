@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var distance = "fdgjhgjgdjg"
 
     override func viewDidLoad() {
         super.viewDidLoad()
